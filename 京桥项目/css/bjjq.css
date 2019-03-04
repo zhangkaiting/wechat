@@ -1,0 +1,140 @@
+.bjjq_nav{
+    color: rgba(172,131,90,1);
+    font-size: 16px;
+    font-weight: bold;
+    margin-right: 100px;
+}
+.bjjq_nav a{
+    color: rgba(172,131,90,1);
+}
+.content_left{
+    background: rgba(153,102,51,1);
+    color: white;
+    padding-bottom: 50px;
+}
+.content_left h3{
+    border-bottom:2px solid white ;
+    padding-bottom: 5px;
+}
+.content_left .box{
+    margin-top: 5px;
+}
+.content_left .box li:first-child{
+    background: white;
+    color: rgba(153,102,51,1);
+
+}
+.content_left .box li{
+    margin-left: 19px;
+    color: white;
+    list-style: none;
+    font-weight: bold;
+    width: 100px;
+    height: 40px;
+    line-height: 40px;
+    border-bottom:2px solid white;
+}
+.content_right{
+    background: url("../img/新建文件夹/走进京桥-联系我们2.png") no-repeat 98% 100%;
+}
+.content_right h3{
+    color: rgba(153,102,51,1);
+    font-weight: bold;
+    padding-bottom: 10px;
+    background: url("../img/新建文件夹/bjjq.png") no-repeat 0px 30px;
+}
+
+.content_right_small{
+    margin-left: 15px;
+}
+.content_right_table{
+    margin-top: 30px;
+    margin-left: 20px;
+}
+.content_right_table tr td{
+    padding-left: 10px;
+    padding-top:20px;
+    font-weight: bold;
+    color: rgba(170,128,85,1);
+    font-size: 14px;
+}
+
+.content_right_img{
+    margin-left: 40px;
+}
+.content_right_img .img_span{
+    display: inline-block;
+    margin-top: 5px;
+}
+.bjjq2{
+    margin-left: 50px;
+
+}
+.bjjq2_nav{
+    color: rgba(153,102,51,1);
+    font-size: 18px;
+    font-weight: bolder;
+}
+.bjjq2_content{
+    width: 50%;
+}
+.nav_fy{
+    margin-right: 30px;
+}
+.nav_fy li a{
+    margin-left: 15px;
+    background: rgba(153,102,51,1);
+    color: white;
+}
+.nav_fy li:nth-child(2) a{
+    background: white;
+    color: rgba(153,102,51,1);
+    border: 2px solid rgba(153,102,51,1);
+}
+.nav_fy li span{
+    color: white;
+}
+.rczp_nav{
+    margin-top: 100px;
+    font-weight: bold;
+    font-size: 20px;
+}
+.rczp_content{
+    margin-top: 10px;
+
+}
+.rczp_content span{
+    display: inline-block;
+    margin-top: 10px;
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+.jqyw2_table{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.jqyw2_table tr td{
+    padding-left: 10px;
+    padding-top:10px;
+    color: rgba(170,128,85,1);
+    font-size: 12px;
+}
+.dsz_content{
+    color: rgba(193,166,149,1);
+}
+.dsz_content .text-right{
+    color: rgba(170,128,85,1);
+    font-size: 16px;
+    font-weight: bold;
+}
+.zzjg div{
+    margin-top: 25px;
+    font-weight: bold;
+    font-size: 18px;
+}
+.zzjg img{
+    display: inline-block;
+    margin-top: 25px;
+
+}
